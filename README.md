@@ -2,9 +2,9 @@
 
 ### Server
 
-В поле "script" в package.json указывается нужный файл
+In the ‘script’ field in package.json write the required file
 
-`npm start` - для запуска сервера
+`npm start` - to start the server
 
 #
 
