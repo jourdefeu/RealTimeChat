@@ -10,6 +10,6 @@ In the ‘script’ field in package.json write the required file
 
 ### Client
 
-В App.jsx указывается нужный компонент
+In App.jsx specify the required component
 
-`npm start` - для запуска клиента
+`npm start` - to start the client
